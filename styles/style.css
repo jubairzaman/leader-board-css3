@@ -151,7 +151,7 @@ margin-bottom: 27px;
         width: 100%;
     }
     
-    .players,.courses{
+    .players{
         
         grid-template-columns: repeat(2,1fr);
     }
@@ -159,7 +159,7 @@ margin-bottom: 27px;
         flex-direction: column;
     }
 
-    .blogs{
+    .blogs ,.courses{
         grid-template-columns: repeat(1,1fr);
 
     }
